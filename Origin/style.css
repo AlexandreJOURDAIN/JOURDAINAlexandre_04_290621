@@ -1041,4 +1041,29 @@ h4 {
 	}
 }
 
-
+@media (max-width: 767px) {
+	.hero-bloc-text {
+		font-size: 25px;
+	}
+	h2 {
+		font-size: 2rem;
+	}
+	.bg-lines-h2-bg {
+		background-image: none;
+	}
+	label {
+		font-size: 1.1rem;
+	}
+	p {
+		font-size: 1.1rem;
+	}
+	.social {
+		margin: 10px;
+	}
+	.portfolio-thumb {
+		margin-left: 40px;
+	}
+	.bloc-mob-center-text {
+		text-align: center;
+	}
+}
